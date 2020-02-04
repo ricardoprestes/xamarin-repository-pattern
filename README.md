@@ -1,0 +1,1 @@
+# xamarin-repository-pattern
